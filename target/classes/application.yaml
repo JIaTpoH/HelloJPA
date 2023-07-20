@@ -1,0 +1,6 @@
+sprint:
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:/back_end
+    username: postgres
+    password: 12345
